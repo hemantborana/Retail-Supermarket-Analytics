@@ -15,9 +15,9 @@ The objectives were to:
 ## 🎓 Academic Context
 
 <p align="center">
-  <img src="https://www.tcs.com/content/dam/global-tcs/en/images/home/tcs-logo.svg" alt="TCS Logo" width="180"/>
+  <img src="https://i.ibb.co/qMTCC89r/tcs-logo.png" alt="TCS Logo" width="300"/>
   <br/>
-  <img src="https://www.freelogovectors.net/wp-content/uploads/2023/01/amity-university-logo-01.png" alt="Amity University Online Logo" width="160"/>
+  <img src="https://i.ibb.co/6zgXKY0/amity-logo.png" alt="Amity University Online Logo" width="240"/>
 </p>
 
 This project was completed as part of the **TCS Course Project** during the **2nd Year** of the  
