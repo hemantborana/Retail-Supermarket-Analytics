@@ -14,8 +14,8 @@ The objectives were to:
 
 ## 🎓 Academic Context
 
-![TCS Logo](https://i.ibb.co/qMTCC89r/tcs-logo.png){ width=120px }
-![Amity University Online Logo](https://i.ibb.co/6zgXKY0/amity-logo.png){ width=100px }
+<img src="https://i.ibb.co/qMTCC89r/tcs-logo.png" width="120px" />
+<img src="https://i.ibb.co/6zgXKY0/amity-logo.png" width="100px" />
 
 This project was completed as part of the **TCS Course Project** during the **2nd Year** of the  
 **Bachelor of Computer Applications (BCA) Undergraduate Program** at **Amity University Online**.  
