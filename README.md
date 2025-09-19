@@ -15,7 +15,7 @@ The objectives were to:
 ## 🎓 Academic Context
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://i.ibb.co/qMTCC89r/tcs-logo.png" width="100px" />
+  <img src="https://i.ibb.co/LzxDyZf7/tcs-logo.png" width="100px" />
   <img src="https://i.ibb.co/6zgXKY0/amity-logo.png" width="100px" />
 </div>
 
