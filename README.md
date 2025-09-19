@@ -15,12 +15,8 @@ The objectives were to:
 ## 🎓 Academic Context
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <div style="width: 120px; height: 120px; overflow: hidden;">
-    <img src="https://i.ibb.co/qMTCC89r/tcs-logo.png" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2);" />
-  </div>
-  <div style="width: 120px; height: 120px; overflow: hidden;">
-    <img src="https://i.ibb.co/6zgXKY0/amity-logo.png" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
+  <img src="https://i.ibb.co/qMTCC89r/tcs-logo.png" width="100px" />
+  <img src="https://i.ibb.co/6zgXKY0/amity-logo.png" width="100px" />
 </div>
 
 This project was completed as part of the **TCS Course Project** during the **2nd Year** of the  
