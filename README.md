@@ -12,7 +12,14 @@ The objectives were to:
 
 ---
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tata_Consultancy_Services_Logo.svg/512px-Tata_Consultancy_Services_Logo.svg.png" alt="TCS Logo" width="180"/>
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Amity_University_Logo.svg/512px-Amity_University_Logo.svg.png" alt="Amity University Online Logo" width="160"/>
+</p>
+
 ## 🎓 Academic Context
+
 This project was completed as part of the **TCS Course Project** during the **2nd Year** of the  
 **Bachelor of Computer Applications (BCA) Undergraduate Program** at **Amity University Online**.  
 
